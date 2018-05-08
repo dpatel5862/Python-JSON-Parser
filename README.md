@@ -1,7 +1,7 @@
 # Python-JSON-Parser
 Quick tool to use when you need a JSON file or blob pretty printed 
 
-#RUN:
+# RUN:
 
 ```
 Python json_parser.py
